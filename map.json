@@ -234,7 +234,7 @@
         {
          "columns":2,
          "firstgid":2762,
-         "image":"..\/..\/Objects Tondorf\/Object Absperrung\/Absperrung.png",
+         "image":"src\/assets\/Absperrung.png",
          "imageheight":32,
          "imagewidth":64,
          "margin":0,
@@ -248,7 +248,7 @@
         {
          "columns":6,
          "firstgid":2764,
-         "image":"..\/..\/Objects Tondorf\/Object Hole\/Hole3.png",
+         "image":"src\/assets\/Hole3.png",
          "imageheight":200,
          "imagewidth":200,
          "margin":0,
@@ -262,7 +262,7 @@
         {
          "columns":10,
          "firstgid":2800,
-         "image":"..\/..\/..\/Testfeld\/src\/assets\/WA_Miscellaneous.png",
+         "image":"src\/assets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
